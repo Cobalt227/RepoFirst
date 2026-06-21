@@ -7,3 +7,4 @@ do
 done
 
 echo "script completed"
+echo "Diff line"
